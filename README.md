@@ -2,7 +2,7 @@
 
 The personal homepage of Jeremy Voltz, for academics, music, and anything else of interest.
 
-### This site uses the Minimal theme
+### This site uses the Left theme
 
-The minimal theme is licensed under creative commons, authored by github user orderedlist
+The left theme is licensed under MIT, authored by Zach Holman
 
