@@ -21,3 +21,41 @@
 {% if page.comments %}
   {% include _disqus_comments.html %}
 {% endif %}
+{% if page.image.feature == "random walk" %}
+<script>
+  $( ".image-wrap > img").detach();
+  $(".image-wrap").append("<span class='image-credit'>A random walk in two dimensions</span>");
+  $(".image-wrap").append( "<canvas id='walk'></canvas>" );
+
+  width = $( window ).width();
+  height = 260;
+  x_pos = width/2;
+  y_pos = height/2;
+  step = .005*width;
+
+  var canvas = document.getElementById('walk');
+  canvas.setAttribute('width', width);
+  canvas.setAttribute('height', height);
+
+  function draw(){
+    if (canvas.getContext){
+      var ctx = canvas.getContext('2d');
+      ctx.lineWidth = 2;
+      ctx.strokeStyle = "#666";
+      y_step = 0;
+      x_step = step*(Math.floor(Math.random() * 3) - 1);
+      if (x_step === 0){
+        y_step = step*(Math.floor(Math.random()*3)-1);
+      }
+      ctx.beginPath();
+      ctx.moveTo(x_pos,y_pos);
+      x_pos = x_pos+x_step;
+      y_pos = y_pos+y_step;
+      ctx.lineTo(x_pos, y_pos);
+      ctx.stroke();
+    }
+  }
+  
+  setInterval(draw, 6);
+</script>
+{% endif %}
