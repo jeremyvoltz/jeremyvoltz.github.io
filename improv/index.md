@@ -10,3 +10,5 @@ image:
   <!-- credit: -->
 ---
 
+I perform regularly with [Calvinball Comedy](https://www.facebook.com/CalvinballComedy).  We produce a monthly show with some of the best improv talent from around the city.  The show is the third Friday of every month, 10pm, at [Social Capital Theatre](http://blackswancomedy.com/1/).
+
