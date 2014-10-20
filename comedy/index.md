@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Improv
 date: Mon Oct 20 13:47:39 2014
 modified: 

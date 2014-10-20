@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Music"
 date: Mon Oct 20 13:21:46 2014
 modified:
