@@ -6,14 +6,14 @@
 - title: Music
   url: /music/
 
-- title: Improv
-  url: /improv/
+- title: Comedy
+  url: /comedy/
 
 - title: Posts
   url: /posts/
 
-- title: About
-  url: /about/
+# - title: About
+#   url: /about/
 
 # - title: Sample Posts
 #   url: /posts/

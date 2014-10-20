@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Music
+title: "Music"
 date: Mon Oct 20 13:21:46 2014
 modified:
-excerpt:
-tags: [music, soundcloud, youtube]
+excerpt: "The musical pursuits of Jeremy Voltz"
+tags: [music, soundcloud, youtube, countermeasure]
 image: 
   feature: singing-banner.jpg
 ---
