@@ -34,7 +34,7 @@ owner:
   twitter: jervoltz
   facebook: jeremyvoltz
   google:
-    plus: jeremyvoltz
+    plus: 109471304316449223401
     analytics: 
     verify: 
     ad-client: 
@@ -50,6 +50,8 @@ owner:
   foursquare: #username
   steam: #username
   dribbble: #username
+  youtube: yardapeJV
+  soundcloud: jeremy-voltz
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
