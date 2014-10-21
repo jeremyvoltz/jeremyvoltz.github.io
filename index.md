@@ -1,7 +1,7 @@
 ---
 layout: home
 excerpt: "The semi-professional homepage of Jeremy Voltz"
-tags: [Jeremy, Voltz, Jeremy Voltz, homepage]
+tags: [Jeremy, Voltz, Jeremy Voltz, home, posts, page, music, improv, research]
 image:
   feature: random walk
 <!-- image:

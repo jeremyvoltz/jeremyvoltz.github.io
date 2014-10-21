@@ -4,7 +4,7 @@ title: Improv
 date: Mon Oct 20 13:47:39 2014
 modified: 
 excerpt:
-tags: [improv, Calvinball, JerJosh]
+tags: [improv, Calvinball, JerJosh, comedy]
 image:
   feature: flying-calvinball-banner.jpg
   <!-- credit: -->

@@ -4,7 +4,7 @@ title: "Music"
 date: Mon Oct 20 13:21:46 2014
 modified:
 excerpt: "The musical pursuits of Jeremy Voltz"
-tags: [music, soundcloud, youtube, countermeasure]
+tags: [music, soundcloud, youtube, countermeasure, singing, voice, songwriting, guitar, drums]
 image: 
   feature: singing-banner.jpg
 ---
