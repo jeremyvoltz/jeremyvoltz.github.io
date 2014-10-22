@@ -4,6 +4,7 @@ title: "Random Walk Header"
 modified:
 categories: 
 tags: [site, javascript, probability, random walk]
+comments: true
 date: 2014-10-20T18:40:29-04:00
 ---
 
