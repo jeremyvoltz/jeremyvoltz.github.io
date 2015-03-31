@@ -25,5 +25,5 @@ image:
 
 - Chmutov, S., and Voltz, J. (2008). *Thistlethwaite's Theorem for Virtual Links.* Journal of Knot Theory and Its Ramifications. Volume 17, Issue 10, pp. 1189-1198.
     - [link to paper on arxiv](http://arxiv.org/pdf/0704.1310.pdf)
-- Bell, J., and Voltz, J. (2014). *Diophantine Approximation and a Product of Sines.* (Preprint)
-- Bakhtin, Y., Khanin, K., and Voltz, J. (2014). *Endpoint Localization for 1+1 Dimensional Directed Polymers in a Quasi-Stationary Environment.* (Preprint)
+- Bell, J., and Voltz, J. (2015). *Diophantine Approximation and a Product of Sines.* (Preprint)
+- Bakhtin, Y., Khanin, K., and Voltz, J. (2015). *Endpoint Localization for 1+1 Dimensional Directed Polymers in a Quasi-Stationary Environment.* (Preprint)
