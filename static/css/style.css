@@ -1,0 +1,192 @@
+.container {
+    height: 100%;
+}
+
+.logo, .navbar {
+    width: 360px;
+    padding: 4px;
+}
+.logo-img {
+    max-width:340px;
+    margin-bottom: 10px;
+}
+
+header {
+    padding: 25px 5px 10px 25px;
+/*position:fixed;
+top: 0;*/
+width: 100%;
+/*background: url(../img/SingingShot.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;*/
+}
+
+.navlink {
+    /*font-family: helvetica;*/
+    appearance: button;
+    font-size: 16px;
+    color: white;
+    margin-right:20px;
+    padding:0px;
+    background-color: transparent;
+    border-width: 0 0 3px 0;
+    border-color: transparent;
+    height: 32px;
+    outline: none;
+}
+.navlink:hover {
+    font-size: 16px;
+    color: white;
+    margin-right:20px;
+    padding: 0px;
+    background-color: transparent;
+    border-width: 0 0 3px 0;
+    border-color: white;
+    height: 32px;
+    outline: none;
+}
+
+/*#background {
+    float:left;
+    width: 100%;
+    height: 100%;
+    background-image: url("../img/SingingShot.png");
+    -webkit-filter: brightness(50%);
+}
+#background-img {
+
+}*/
+
+html { 
+  background: url(../img/SingingShot.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  /*height:100%;*/
+  /*min-height: 100%;*/
+  /*overflow: auto;*/
+
+
+}
+.content {
+    /*visibility: hidden;*/
+    /*top: 165px;*/
+    display: none;
+    margin: 25px;
+    overflow: hidden;
+    /*position: absolute;*/
+    /*z-index: -1;*/
+    min-height: 350px;
+
+}
+footer {
+    color: #4E4E51;
+    position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: 0px 35px 15px 35px;
+  /*padding: 0px;*/
+  /*background-color: #efefef;*/
+  /*text-align: center;*/
+}
+
+#copyright {
+   /*padding-top: 20px;*/
+}
+
+.email {
+    float: right;
+}
+
+input[type="text"], input[type="email"] {
+    position: relative;
+  background-color : #282828; 
+  border: 0;
+  padding: 8px;
+  margin:  0 10px 0px 0px;
+  /*height: 16px;*/
+  font-size: 13px;
+  color: #d9d9d9;
+  -webkit-border-radius: 8px;
+-moz-border-radius: 8px;
+border-radius: 8px;
+}
+
+#email-button {
+    position: relative;
+    height: 35px;
+    background-color: #585858;
+    border: 0;
+    color: white;
+    /*padding: 14px;*/
+    /*height: 40px;*/
+  font-size: 14px;
+    padding-right:30px;
+    padding-left: 30px;
+  -webkit-border-radius: 8px;
+-moz-border-radius: 8px;
+border-radius: 8px;
+
+}
+
+@media screen and (max-width:599px) {
+  input {
+
+  }
+}
+
+#left-about-col {
+    float: left;
+    width: 60%;
+}
+#right-about-col {
+    margin-left:65%;
+}
+
+body{
+    font-family: 'Pavanam', sans-serif;
+        font-size: 16px;
+    color: white;
+    margin: 0;
+    /*background-color: black;*/
+    width: 100%;
+    /*height: 100%;*/
+-webkit-transition: background-color 200ms;
+    transition: background-color 200ms;
+    padding-bottom: 50px;
+    /*overflow: auto;*/
+
+}
+
+p {
+    color: #cbcdcd;
+    font-size: 18px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+
+h1 {
+    color: #cbcdcd;
+}
+
+.photo {
+    width: 200px;
+    /*height: 200px;*/
+}
+.photo-link {
+    /*width: 200px;
+    height: 200px;
+    overflow: hidden;*/
+    margin: 10px;
+}
+
+
+/*html {
+-webkit-filter: brightness(50%);
+}*/
